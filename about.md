@@ -8,7 +8,7 @@ learning coding now!
 
 ### More Information
 
-study in SUCT now!d
+study in SUCT now!
 ### Contact me
 
-[asher_huang@dfoxmail.com](mailto:asher_huang@foxmail.com)
+[asher_huang@foxmail.com](mailto:asher_huang@foxmail.com)
