@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+learning coding now!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+study in SUCT now!d
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[asher_huang@dfoxmail.com](mailto:asher_huang@foxmail.com)
